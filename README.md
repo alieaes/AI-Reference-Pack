@@ -8,16 +8,16 @@
 |---|---|---|
 | [`icons/`](icons/) | 아이콘, SVG 아이콘 리소스 | [Phosphor Icons](https://phosphoricons.com/) |
 | [`ui-design/`](ui-design/) | UI/UX 및 인터페이스 디자인 레퍼런스 | [OriginKit](https://www.originkit.dev/) |
+| [`ui-components/`](ui-components/) | 실제 개발에 활용할 UI 컴포넌트 및 코드 레퍼런스 | [Uiverse](https://uiverse.io/elements), [21st.dev](https://21st.dev/) |
 
-## 사용 방법
-
-새로운 레퍼런스 URL을 추가할 때는 **가장 적절한 대분류 폴더의 README.md**에 사이트를 추가합니다.
+## Category Guide
 
 - **icons** — 아이콘, SVG, 픽토그램, 아이콘 라이브러리
-- **ui-design** — UI/UX, 웹/앱 화면, 디자인 시스템, 인터페이스 레퍼런스
+- **ui-design** — UI/UX, 웹/앱 화면, 디자인 시스템, 인터페이스 디자인 영감 및 레퍼런스
+- **ui-components** — 버튼, 카드, 폼, 입력창, 네비게이션, 모달, 애니메이션 등 실제 구현 가능한 UI 컴포넌트와 복사 가능한 코드
 
-앞으로 자료가 많아지면 개발 언어, 프레임워크, 그래픽, 네트워크, OS 등 필요한 영역을 별도 대분류로 확장합니다.
+새로운 레퍼런스 URL은 가장 적절한 대분류 폴더의 `README.md`에 추가합니다. 기존 카테고리와 성격이 다르면 새로운 대분류를 만들고 이 목록도 함께 갱신합니다.
 
-### AI 검색용 키워드
+### AI Search Keywords
 
-`icon` `svg` `ui` `ux` `design` `reference` `web` `app`
+`icon` `svg` `ui` `ux` `design` `component` `react` `nextjs` `tailwind` `css` `html` `figma` `web` `app` `frontend` `reference`
