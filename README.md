@@ -8,7 +8,7 @@
 |---|---|---|
 | [`icons/`](icons/) | 아이콘, SVG 아이콘 리소스 | [Phosphor Icons](https://phosphoricons.com/) |
 | [`ui-design/`](ui-design/) | UI/UX 및 인터페이스 디자인 레퍼런스 | [OriginKit](https://www.originkit.dev/) |
-| [`ui-components/`](ui-components/) | 실제 개발에 활용할 UI 컴포넌트 및 코드 레퍼런스 | [Uiverse](https://uiverse.io/elements), [21st.dev](https://21st.dev/) |
+| [`ui-components/`](ui-components/) | 실제 개발에 활용할 UI 컴포넌트 및 코드 레퍼런스 | [Uiverse](https://uiverse.io/elements), [21st.dev](https://21st.dev/), [Anime.js](https://animejs.com/documentation) |
 
 ## Category Guide
 
@@ -20,4 +20,4 @@
 
 ### AI Search Keywords
 
-`icon` `svg` `ui` `ux` `design` `component` `react` `nextjs` `tailwind` `css` `html` `figma` `web` `app` `frontend` `reference`
+`icon` `svg` `ui` `ux` `design` `component` `animation` `motion` `animejs` `javascript` `react` `nextjs` `tailwind` `css` `html` `figma` `web` `app` `frontend` `reference`
